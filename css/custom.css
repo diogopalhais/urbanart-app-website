@@ -11,6 +11,10 @@
     margin:0 auto;
   }
 
+  .mob{
+    display: none;
+  }
+
 
 
 }
